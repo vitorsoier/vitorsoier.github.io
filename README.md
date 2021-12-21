@@ -1,2 +1,2 @@
-# vitorsoier.github.io
-Para acessar o site basta digitar a url:vitorsoier.github.io
+# Curso de estatística
+Aplicando conhecimentos estatísticos aprendidos na Alura
